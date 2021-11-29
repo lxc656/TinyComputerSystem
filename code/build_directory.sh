@@ -1,0 +1,1 @@
+mkdir -p ./bin ./files/swap ./files/exe
